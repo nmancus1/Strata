@@ -730,7 +730,7 @@
     <slf4j.version>1.7.30</slf4j.version>
     <!-- Properties for maven-checkstyle-plugin -->
     <!-- versions must be retained to allow the version to be overridden on the command line -->
-    <build-config.version>2.6.0</build-config.version>
+    <build-config.version>3.1.1</build-config.version>
     <checkstyle.version>8.26</checkstyle.version>
     <!-- Properties for maven-javadoc-plugin -->
     <windowtitle>OpenGamma Strata</windowtitle>
